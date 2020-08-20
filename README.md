@@ -21,3 +21,7 @@ serve -s build
 
 Open production build on [http://localhost:5000/](http://localhost:5000/)
 Or copy to a Web Server
+
+## TO-DO
+
+Accept API Key as an env variable. Currently hardcoded
